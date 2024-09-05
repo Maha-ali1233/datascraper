@@ -1,0 +1,11 @@
+.env
+node_modules
+.zip
+*.csv
+*.json
+*.mp3
+*.pdf
+*.txt
+.DS_Store
+/storage/*
+/resources/*

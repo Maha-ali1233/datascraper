@@ -1,0 +1,9 @@
+.env
+node_modules
+*.zip
+*.mp3
+*.pdf
+*.txt
+.DS_Store
+/storage/*
+/resources/*
